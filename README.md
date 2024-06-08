@@ -12,7 +12,7 @@
 
 🚀 Projects:
 - **Contact Manager Application:** Developed a web application using Spring MVC to manage Contacts.
-- **Managment Managment API:** Built a RESTful API using Spring Boot For Product Managment.
+- **Product Managment API:** Built a RESTful API using Spring Boot For Product Managment.
 
 🔧 Tools and Technologies:
 - Git & GitHub
@@ -28,7 +28,7 @@
 - Backend Development
 
 🔗 Let's connect:
-- [LinkedIn Profile](www.linkedin.com/in/suyash-chandurkar-6663ba290)
+- (www.linkedin.com/in/suyash-chandurkar-6663ba290)
 
 📫 How to reach me:
 - suyashchandurkar44@gmail.com
